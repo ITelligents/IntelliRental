@@ -1,2 +1,0 @@
-# IntelliRental
-rental property management
